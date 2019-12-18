@@ -9,7 +9,6 @@ int main(){
 			scanf("%d",&ary[i][j]);
 		}
 	}
-
 	int total = 0;
 	int total2 = 0;
 	for (int i = 0; i < 4; ++i)
